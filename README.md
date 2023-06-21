@@ -6,7 +6,8 @@ https://www.kaggle.com/datasets/shivamb/netflix-shows
 
 ![Screenshot 2023-06-20 170312](https://github.com/Archana271/Tableau_Netflix_Dashboard/assets/95703240/799501dc-ddab-4da2-93cd-9170b5a931e7)
 
-# Tableau Public Profile Link: https://public.tableau.com/app/profile/archana.bora/viz/Netflix_Dashboard_16873495121530/Netflix
+# Tableau Public Profile Link: 
+https://public.tableau.com/app/profile/archana.bora/viz/Netflix_Dashboard_16873495121530/Netflix
 
 # Tableau Dashboard
 
